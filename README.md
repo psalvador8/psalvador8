@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Priscilla 👋
 
-<!--
-**psalvador8/psalvador8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer building automated infrastructure on AWS.
 
-Here are some ideas to get you started:
+AWS Certified Solutions Architect  
+Terraform Associate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Technologies
+AWS • Terraform • Kubernetes • Docker • CI/CD • Cloud Security
+
+## Featured Projects
+- Kubernetes Microservices Deployment (Helm + Helmfile)
+- AWS Infrastructure Re-Architecture using CDK
+- Serverless AI Contact Workflow
+- CI/CD Pipeline with Jenkins & EKS
+
+## Connect
+LinkedIn: https://linkedin.com/in/priscillasalvador
+Medium: https://medium.com/@psalvador8
