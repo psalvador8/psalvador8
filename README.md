@@ -1,8 +1,6 @@
 # Hi, I'm Priscilla 👋
 
-Cloud & DevOps Engineer building **automated cloud infrastructure on AWS** using Infrastructure as Code, Kubernetes, and CI/CD pipelines.
-
-I focus on designing scalable cloud systems and automating deployments using modern DevOps practices.
+I'm an AWS Cloud Engineer focused on designing secure, scalable cloud infrastructure using Terraform, Kubernetes, and CI/CD automation. I share real-world cloud architecture and infrastructure projects.
 
 ---
 
@@ -13,13 +11,13 @@ I focus on designing scalable cloud systems and automating deployments using mod
 
 ---
 
-# 🧰 Core Technologies
+# 🧰 Tech Stack
 
 AWS • Terraform • AWS CDK • Kubernetes • Docker • Jenkins • CI/CD • Serverless • Cloud Security
 
 ---
 
-# 🚀 Cloud Engineering Portfolio
+# 🚀 Featured Cloud Engineering Projects
 
 ### ☸️ Kubernetes Microservices Platform
 Distributed e-commerce microservices deployed on Kubernetes using Helm and Helmfile with production-style architecture.
