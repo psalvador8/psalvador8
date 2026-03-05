@@ -19,6 +19,8 @@ AWS • Terraform • AWS CDK • Kubernetes • Docker • Jenkins • CI/CD �
 
 # 🚀 Featured Cloud Engineering Projects
 
+These projects focus on real-world cloud architecture patterns including Infrastructure as Code, container orchestration, serverless systems, and CI/CD automation on AWS.
+
 ### ☸️ Kubernetes Microservices Platform
 Distributed e-commerce microservices deployed on Kubernetes using Helm and Helmfile with production-style architecture.
 
