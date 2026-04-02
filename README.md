@@ -1,6 +1,8 @@
 # Hi, I'm Priscilla 👋
 
-I'm an AWS Cloud Engineer focused on designing secure, scalable cloud infrastructure using Terraform, Kubernetes, and CI/CD automation. I share real-world cloud architecture and infrastructure projects.
+AWS Cloud Engineer focused on designing and automating scalable, secure cloud infrastructure.
+
+I build end-to-end cloud systems using Terraform, Kubernetes, and CI/CD pipelines — with a strong emphasis on automation, reliability, and production-ready architecture.
 
 ---
 
@@ -29,7 +31,7 @@ Distributed e-commerce microservices deployed on Kubernetes using Helm and Helmf
 ---
 
 ### 🏨 Serverless AI Contact Form
-Serverless architecture using AWS Lambda, Comprehend, Translate, SES, and DynamoDB to process multilingual guest inquiries.
+Implemented a fully automated CI/CD pipeline that builds, versions, containerizes, and deploys applications to Kubernetes, eliminating manual deployments and improving release consistency.
 
 🔗 https://github.com/psalvador8/beachbay-contact
 
@@ -43,7 +45,7 @@ Automated pipeline that builds, versions, containerizes, and deploys application
 ---
 
 ### 🏥 AWS Infrastructure Migration with CDK
-Modernizing legacy console-built infrastructure into Infrastructure as Code using AWS CDK.
+Migrated manually configured AWS infrastructure to Infrastructure as Code using AWS CDK, improving consistency, repeatability, and deployment reliability.
 
 🔗 https://github.com/psalvador8/aws_migration_health_tech
 
@@ -51,7 +53,7 @@ Modernizing legacy console-built infrastructure into Infrastructure as Code usin
 
 # ✍️ Technical Articles
 
-I regularly write about cloud architecture, DevOps, and infrastructure automation.
+I share practical insights on cloud architecture, DevOps, and infrastructure automation:
 
 📖 https://medium.com/@psalvador8
 
