@@ -1,6 +1,6 @@
 # Hi, I'm Priscilla 👋
 
-I'm focused on **AWS cloud infrastructure, security, and automation**, with hands-on experience designing and building cloud solutions through technical projects.
+I'm focused on **AWS cloud infrastructure, security, and automation**, with hands-on experience designing and building cloud solutions.
 
 My work covers infrastructure as code with Terraform, AWS architecture, serverless applications, CI/CD, and containerized deployments. I emphasize practical engineering decisions, secure configurations, repeatable deployments, and clear technical documentation.
 
