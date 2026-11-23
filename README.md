@@ -1,65 +1,66 @@
 # Hi, I'm Priscilla 👋
 
-AWS Cloud Engineer focused on designing and automating scalable, secure cloud infrastructure.
+I'm focused on **AWS cloud infrastructure, security, and automation**, with hands-on experience designing and building cloud solutions through technical projects.
 
-I build end-to-end cloud systems using Terraform, Kubernetes, and CI/CD pipelines — with a strong emphasis on automation, reliability, and production-ready architecture.
+My work covers infrastructure as code with Terraform, AWS architecture, serverless applications, CI/CD, and containerized deployments. I emphasize practical engineering decisions, secure configurations, repeatable deployments, and clear technical documentation.
 
----
+## ☁️ Certifications
 
-# ☁️ Certifications
+- **AWS Certified Solutions Architect – Associate**
+- **AWS Certified Cloud Practitioner**
+- **AWS Certified AI Practitioner**
+- **HashiCorp Certified: Terraform Associate**
 
-- AWS Certified Solutions Architect
-- HashiCorp Terraform Associate
+## 🧰 Technical Skills
 
----
+- **AWS:** IAM, VPC, EC2, S3, CloudFront, Lambda, API Gateway, DynamoDB, RDS, CloudWatch, ECR, EKS
+- **Infrastructure as Code:** Terraform; AWS CDK (project experience)
+- **CI/CD and version control:** Git, GitHub, GitHub Actions; Jenkins (bootcamp/project experience)
+- **Containers and orchestration:** Docker, Kubernetes, Helm (bootcamp/project experience)
+- **Other:** Serverless architecture, cloud security fundamentals, networking, monitoring
 
-# 🧰 Tech Stack
+*My AWS and DevOps work below is based on hands-on training and portfolio projects, not a claim of professional production deployment experience.*
 
-AWS • Terraform • AWS CDK • Kubernetes • Docker • Jenkins • CI/CD • Serverless • Cloud Security
+## 🚀 Featured Cloud Engineering Projects
 
----
+### 🏥 AWS Infrastructure Architecture — AWS CDK
+A multi-tier AWS infrastructure project using VPC networking, EC2, RDS, IAM, and security groups, modeled as code with AWS CDK.
 
-# 🚀 Featured Cloud Engineering Projects
+**Focus:** Network segmentation, repeatable provisioning, and infrastructure security.
 
-These projects focus on real-world cloud architecture patterns including Infrastructure as Code, container orchestration, serverless systems, and CI/CD automation on AWS.
+[View project](https://github.com/psalvador8/aws_migration_health_tech)
 
-### ☸️ Kubernetes Microservices Platform
-Distributed e-commerce microservices deployed on Kubernetes using Helm and Helmfile with production-style architecture.
+### 🏨 Serverless AI Contact Form — AWS + Terraform
+A serverless contact workflow using API Gateway, Lambda, DynamoDB, Amazon Comprehend, Amazon Translate, and SES. The repository includes Terraform infrastructure for the AWS components.
 
-🔗 https://github.com/psalvador8/kubernetes-microservices-helm
+**Focus:** Serverless design, IAM, infrastructure as code, and deployment automation.
 
----
+[View project](https://github.com/psalvador8/beachbay-contact)
 
-### 🏨 Serverless AI Contact Form
-Built a serverless guest contact workflow on AWS using Terraform, API Gateway, Lambda, DynamoDB, Amazon Comprehend, Translate, and SES for multilingual message processing and notifications.
+### ⚙️ CI/CD Pipeline — Jenkins → ECR → EKS
+A training project demonstrating a pipeline to build a container image, publish it to Amazon ECR, and deploy an application to Amazon EKS.
 
-🔗 https://github.com/psalvador8/beachbay-contact
+**Focus:** CI/CD concepts, containers, and Kubernetes deployment workflows.
 
----
+[View project](https://github.com/psalvador8/eks-jenkins-pipeline)
 
-### ⚙️ CI/CD Pipeline (Jenkins → AWS ECR → AWS EKS)
-Automated pipeline that builds, versions, containerizes, and deploys applications to Kubernetes on AWS.
+### ☸️ Kubernetes Microservices — Helm
+A microservices deployment project using Kubernetes, Helm, and Helmfile.
 
-🔗 https://github.com/psalvador8/eks-jenkins-pipeline
+**Focus:** Container orchestration, application configuration, and deployment management.
 
----
+[View project](https://github.com/psalvador8/kubernetes-microservices-helm)
 
-### 🏥 AWS Infrastructure Migration with CDK
-Migrated manually configured AWS infrastructure to Infrastructure as Code using AWS CDK, improving consistency, repeatability, and deployment reliability.
+## 🔍 What I'm Working On
 
-🔗 https://github.com/psalvador8/aws_migration_health_tech
+I'm strengthening my AWS and Terraform skills through **business-problem-driven cloud projects**: secure hosting, IAM reviews, cost visibility, monitoring, and incident response. My goal is to demonstrate not only *what* I build, but *why* I choose a particular architecture and how I validate it.
 
----
+## ✍️ Technical Writing
 
-# ✍️ Technical Articles
+I document what I build and learn, including architecture choices, implementation details, and lessons from troubleshooting.
 
-I share practical insights on cloud architecture, DevOps, and infrastructure automation:
+[Read my articles on Medium](https://medium.com/@psalvador8)
 
-📖 https://medium.com/@psalvador8
+## 🤝 Connect
 
----
-
-# 🔗 Connect
-
-LinkedIn  
-https://linkedin.com/in/priscillasalvador
+[LinkedIn](https://linkedin.com/in/priscillasalvador)
