@@ -23,19 +23,19 @@ My work covers infrastructure as code with Terraform, AWS architecture, serverle
 
 ## 🚀 Featured Cloud Engineering Projects
 
-### 🏨 Serverless AI Contact Form — AWS + Terraform
-A serverless contact workflow using API Gateway, Lambda, DynamoDB, Amazon Comprehend, Amazon Translate, and SES. The repository includes Terraform infrastructure for the AWS components.
-
-**Focus:** Serverless design, IAM, infrastructure as code, and deployment automation.
-
-[View project](https://github.com/psalvador8/beachbay-contact)
-
 ### 🏥 AWS Infrastructure Architecture — AWS CDK
 A multi-tier AWS infrastructure project using VPC networking, EC2, RDS, IAM, and security groups, modeled as code with AWS CDK.
 
 **Focus:** Network segmentation, repeatable provisioning, and infrastructure security.
 
 [View project](https://github.com/psalvador8/aws_migration_health_tech)
+
+### 🏨 Serverless AI Contact Form — AWS + Terraform
+A serverless contact workflow using API Gateway, Lambda, DynamoDB, Amazon Comprehend, Amazon Translate, and SES. The repository includes Terraform infrastructure for the AWS components.
+
+**Focus:** Serverless design, IAM, infrastructure as code, and deployment automation.
+
+[View project](https://github.com/psalvador8/beachbay-contact)
 
 ### ⚙️ CI/CD Pipeline — Jenkins → ECR → EKS
 A training project demonstrating a pipeline to build a container image, publish it to Amazon ECR, and deploy an application to Amazon EKS.
