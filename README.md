@@ -31,7 +31,7 @@ Distributed e-commerce microservices deployed on Kubernetes using Helm and Helmf
 ---
 
 ### 🏨 Serverless AI Contact Form
-Implemented a fully automated CI/CD pipeline that builds, versions, containerizes, and deploys applications to Kubernetes, eliminating manual deployments and improving release consistency.
+Built a serverless guest contact workflow on AWS using Terraform, API Gateway, Lambda, DynamoDB, Amazon Comprehend, Translate, and SES for multilingual message processing and notifications.
 
 🔗 https://github.com/psalvador8/beachbay-contact
 
