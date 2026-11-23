@@ -14,9 +14,9 @@ My work covers infrastructure as code with Terraform, AWS architecture, serverle
 ## 🧰 Technical Skills
 
 - **AWS:** IAM, VPC, EC2, S3, CloudFront, Lambda, API Gateway, DynamoDB, RDS, CloudWatch, ECR, EKS
-- **Infrastructure as Code:** Terraform; AWS CDK (project experience)
-- **CI/CD and version control:** Git, GitHub, GitHub Actions; Jenkins (bootcamp/project experience)
-- **Containers and orchestration:** Docker, Kubernetes, Helm (bootcamp/project experience)
+- **Infrastructure as Code:** Terraform; AWS CDK
+- **CI/CD and version control:** Git, GitHub, GitHub Actions; Jenkins
+- **Containers and orchestration:** Docker, Kubernetes, Helm
 - **Other:** Serverless architecture, cloud security fundamentals, networking, monitoring
 
 ## 🚀 Featured Cloud Engineering Projects
