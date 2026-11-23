@@ -1,8 +1,8 @@
 # Hi, I'm Priscilla 👋
 
-I'm a technology operations professional transitioning into **AWS cloud engineering**, with a focus on cloud infrastructure, security, and automation.
+I'm focused on **AWS cloud infrastructure, security, and automation**, with hands-on experience designing and building cloud solutions through technical projects.
 
-I bring a background in technology operations and business process improvement, along with hands-on cloud engineering training, AWS and Terraform certifications, and a growing portfolio of infrastructure projects. I use these projects to practice making architecture decisions, implementing infrastructure as code, testing deployments, and documenting trade-offs.
+My work covers infrastructure as code with Terraform, AWS architecture, serverless applications, CI/CD, and containerized deployments. I emphasize practical engineering decisions, secure configurations, repeatable deployments, and clear technical documentation.
 
 ## ☁️ Certifications
 
