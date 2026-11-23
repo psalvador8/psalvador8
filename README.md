@@ -19,8 +19,6 @@ My work covers infrastructure as code with Terraform, AWS architecture, serverle
 - **Containers and orchestration:** Docker, Kubernetes, Helm (bootcamp/project experience)
 - **Other:** Serverless architecture, cloud security fundamentals, networking, monitoring
 
-*My AWS and DevOps work below is based on hands-on training and portfolio projects, not a claim of professional production deployment experience.*
-
 ## 🚀 Featured Cloud Engineering Projects
 
 ### 🏥 AWS Infrastructure Architecture — AWS CDK
